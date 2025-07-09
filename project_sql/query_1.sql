@@ -1,1 +1,1 @@
-SELECT * FROM company_dim LIMIT 5;
+SELECT * FROM company_dim LIMIT 6;

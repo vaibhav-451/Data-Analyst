@@ -57,7 +57,9 @@ ORDER BY
     average_salary DESC,
     demand_count DESC
 
+
 -- rewriting this same query more concisely
+
 SELECT 
     skills_dim.skill_id,
     skills_dim.skills,

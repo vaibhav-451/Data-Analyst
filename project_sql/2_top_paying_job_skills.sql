@@ -41,8 +41,8 @@ Here’s the breakdown of the most demanded skills for data analysts in 2023, ba
 *  SQL  is leading with a bold count of  6 .
 *  Oracle ,  Power BI , and  MongoDB  follow closely, each with a bold count of  4 .
 *  AWS ,  Spark , and  Python  are also in demand, with a bold count of  3  each.
-* Other skills like  Excel ,  Scala ,  Hadoop ,  Databricks ,  Airflow ,  Azure ,  GDPR , and  Go  show moderate demand, each with a bold count of  2 .
-* Niche tools and technologies such as  No-SQL ,  SAP ,  Shell ,  Neo4j , and  Electron  appear with a bold count of  1 .
+*  Other skills like  Excel ,  Scala ,  Hadoop ,  Databricks ,  Airflow ,  Azure ,  GDPR , and  Go  show moderate demand, each with a bold count of  2 .
+*  Niche tools and technologies such as  No-SQL ,  SAP ,  Shell ,  Neo4j , and  Electron  appear with a bold count of  1 .
 
 [
   {

@@ -27,11 +27,8 @@ LIMIT 10
 
 /*
 Here's the breakdown of the top data analyst jobs in 2023:
-
-*  Wide Salary Range : Salaries span from  $111,175   to   \$177,283   per year. This demonstrates that even within India, global companies are offering highly competitive compensation for data roles—especially at the senior and architectural levels.
-
+*  Wide Salary Range : Salaries span from  $111,175   to   $177,283   per year. This demonstrates that even within India, global companies are offering highly competitive compensation for data roles—especially at the senior and architectural levels.
 *  Diverse Employers : The list includes a wide variety of companies such as   ServiceNow  ,   Bosch Group  ,   Srijan Technologies  ,   Eagle Genomics Ltd  ,   Addepar  ,   Truecaller  ,   Avaloq  , and   Razorpay  . This highlights that top-paying data roles are not limited to traditional tech companies but extend into   fintech  ,   biotech  , and   B2B SaaS   sectors.
-
 *  Location Spread : The highest-paying jobs are located in major Indian tech hubs:
   *   Bengaluru   (Bosch, Truecaller, Razorpay)
   *   Hyderabad   (ServiceNow, Eagle Genomics)

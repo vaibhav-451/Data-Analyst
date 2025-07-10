@@ -53,6 +53,9 @@ Here's the breakdown of the top data analyst jobs in 2023:
 - **Diverse Employers:** Companies like ServiceNow, Srijan Technologies and Bosch Group are among those offering high salaries, showing a broad interest across different industries.
 - **Job Title Variety:** There's a high diversity in job titles, from Data Analyst to Manager - Data Analyst, reflecting varied roles and specializations within data analytics.
 
+![Top Paying Roles](assets/1_graph.png)
+*Bar graph visualizing the salary for the top 10 salaries for data analysts; ChatGPT generated this graph from my SQL query results*
+
 ### 2. Skills for Top Paying Jobs
 To understand what skills are required for the top-paying jobs, I joined the job postings with the skills data, providing insights into what employers value for high-compensation roles.
 ```sql
@@ -92,6 +95,8 @@ Here's the breakdown of the most demanded skills for the top 10 highest paying d
 - Other skills like  **Excel** ,  **Scala** ,  **Hadoop** ,  **Databricks** ,  **Airflow** ,  **Azure** ,  **GDPR** , and  **Go**  show moderate demand, each with a bold count of  2 .
 - Niche tools and technologies such as  **No-SQL** ,  **SAP** ,  **Shell** ,  **Neo4j** , and  **Electron** appear with a bold count of  1 .
 
+![Skills for Top Paying Jobs](assets/2_grapg.png)
+*Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; ChatGPT generated this graph from my SQL query results*
 ### 3. In-Demand Skills for Data Analysts
 
 This query helped identify the skills most frequently requested in job postings, directing focus to areas with high demand.
